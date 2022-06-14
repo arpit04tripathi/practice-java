@@ -13,4 +13,5 @@ include 'data-structures'
 include 'algorithms'
 include 'leetcode'
 include 'design-patterns'
+include 'coding-challenges'
 
