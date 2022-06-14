@@ -1,0 +1,10 @@
+plugins {
+    id 'com.a04t.java-application-conventions'
+}
+
+group 'com.a04t.leetcode'
+version 'unspecified'
+
+application {
+    mainClass = 'com.a04t.leetcode.Main';
+}

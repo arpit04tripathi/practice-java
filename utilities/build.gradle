@@ -8,4 +8,5 @@ plugins {
 
 dependencies {
     api project(':list')
+//    https://stackoverflow.com/questions/44413952/gradle-implementation-vs-api-configuration
 }

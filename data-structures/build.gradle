@@ -1,0 +1,10 @@
+plugins {
+    id 'com.a04t.java-application-conventions'
+}
+
+group 'com.a04t.ds'
+version 'unspecified'
+
+application {
+    mainClass = 'com.a04t.ds.Main';
+}

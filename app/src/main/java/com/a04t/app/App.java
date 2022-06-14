@@ -16,6 +16,6 @@ public class App {
         LinkedList tokens;
         tokens = split(getMessage());
         String result = join(tokens);
-        System.out.println(WordUtils.capitalize(result));
+        System.out.println(WordUtils.capitalize(result) + " - App!");
     }
 }

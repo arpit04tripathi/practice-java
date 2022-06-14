@@ -9,3 +9,8 @@
 
 rootProject.name = 'practice-java'
 include('app', 'list', 'utilities')
+include 'data-structures'
+include 'algorithms'
+include 'leetcode'
+include 'design-patterns'
+
