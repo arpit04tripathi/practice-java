@@ -1,6 +1,6 @@
 package com.a04t.ds.stack.applications;
 
-import stack.StackAsLinkedList;
+import com.a04t.ds.stack.StackAsLinkedList;
 
 public class BalancedParanthesesChecker {
 

@@ -1,6 +1,6 @@
 package com.a04t.ds.list.runner;
 
-import list.singlyLinkedList.SinglyLinkedList;
+import com.a04t.ds.list.singlyLinkedList.SinglyLinkedList;
 
 public class SinglyLinkedListRunner {
 	

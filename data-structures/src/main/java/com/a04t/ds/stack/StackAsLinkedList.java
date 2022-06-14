@@ -1,6 +1,7 @@
 package com.a04t.ds.stack;
 
-import list.singlyLinkedList.SLLNode;
+
+import com.a04t.ds.list.singlyLinkedList.SLLNode;
 
 public class StackAsLinkedList {
 	SLLNode top;

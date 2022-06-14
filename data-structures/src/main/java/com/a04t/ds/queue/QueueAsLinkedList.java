@@ -1,6 +1,7 @@
 package com.a04t.ds.queue;
 
-import list.singlyLinkedList.SLLNode;
+
+import com.a04t.ds.list.singlyLinkedList.SLLNode;
 
 public class QueueAsLinkedList {
 

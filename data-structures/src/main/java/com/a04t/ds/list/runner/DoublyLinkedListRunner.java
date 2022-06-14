@@ -1,6 +1,6 @@
 package com.a04t.ds.list.runner;
 
-import list.doublyLinkedList.DoublyLinkedList;
+import com.a04t.ds.list.doublyLinkedList.DoublyLinkedList;
 
 public class DoublyLinkedListRunner {
 

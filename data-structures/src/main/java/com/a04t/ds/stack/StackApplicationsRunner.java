@@ -1,7 +1,8 @@
 package com.a04t.ds.stack;
 
-import stack.applications.BalancedParanthesesChecker;
-import stack.applications.EvaluatePostfixExpression;
+
+import com.a04t.ds.stack.applications.BalancedParanthesesChecker;
+import com.a04t.ds.stack.applications.EvaluatePostfixExpression;
 
 public class StackApplicationsRunner {
 
